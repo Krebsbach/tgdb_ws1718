@@ -17,6 +17,7 @@ Schaue dir das Datenbankmodell an. Wofür steht hinter dem Datentyp `NUMBER` die
 
 #### Lösung
 > Deine schritliche Antwort.
+test
 
 ### Aufgabe 2
 Was bedeuten die durchgezogenen Linien die zwischen einigen Tabellen abgebildet sind?.
